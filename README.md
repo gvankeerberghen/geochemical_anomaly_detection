@@ -1,4 +1,7 @@
-<img src="images/logo.svg" width="300">
+<a href="https://www.minersai.com/">
+  <img src="images/logo.svg" width="300">
+</a>
+
 
 
 # **Multivariate Outlier Detection in Geochemical Datasets**
