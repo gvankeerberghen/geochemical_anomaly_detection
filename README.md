@@ -1,4 +1,9 @@
+<img src="images/logo.svg" width="300">
+
+
 # **Multivariate Outlier Detection in Geochemical Datasets**
+#### *Tyler Howe, February 2025*
+
 
 This repository provides an open-source resource for exploring, analyzing, and comparing three different methods of multivariate outlier detection in geochemical datasets in the context of mineral exploration.
 
